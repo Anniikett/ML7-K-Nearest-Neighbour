@@ -47,6 +47,7 @@ Predict a price range, indicating how high the price is, using K-Nearest Neighbo
 **price_range:** This is the target variable with the value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
 
 **Scope:**
+
 ● Prepare and analyse data, treat outliers and missing values
 
 ● Check the distribution of key numerical variables
